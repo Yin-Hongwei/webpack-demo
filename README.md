@@ -1,6 +1,6 @@
 ## 前言
 
-[为什么用webpack]([https://yin-hongwei.github.io/2020/03/18/%E4%B8%BA%E4%BB%80%E4%B9%88%E7%94%A8webpack/](https://yin-hongwei.github.io/2020/03/18/为什么用webpack/))
+[为什么用webpack](https://yin-hongwei.github.io/2020/03/18/为什么用webpack/)
 
 
 
